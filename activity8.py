@@ -1,2 +1,37 @@
-# Activity 8
-# Erase the current code in the file and create the code to complete the requirements as stated in the assignment.
+import csv
+
+
+
+class Customer:
+
+    def __init__():
+        pass
+
+
+    
+
+def display_title():
+    pass
+
+def csv_reader():
+    pass
+
+def find_customer(cust_id):
+    
+
+
+def main():
+    display_title()
+    
+
+    while True:
+        cust_id = input("Enter Customer ID:")
+        find_customer(cust_id)
+        
+
+if __name__ == '__main__':
+    main()
+
+
+
+
